@@ -7,7 +7,7 @@
 <h3 align="center">🛡️ AI-Driven Cybersecurity for the Decentralized Era</h3>
 
 <p align="center">
-  <a href="https://aegissentinel.no">Website</a> •
+  <a href="https://aegissentinel.online">Website</a> •
   <a href="https://docs.aegissentinel.online">Documentation</a> •
   <a href="https://twitter.com/AegisSentinel">Twitter</a> •
   <a href="https://discord.gg/aegissentinel">Discord</a>
@@ -53,5 +53,5 @@ Enterprise Network → Sentinel AI Engine → ZK-Prover → L2 Blockchain
 ---
 
 <p align="center">
-  <sub>© 2026 AegisSentinel · <a href="https://aegissentinel.no">aegissentinel.no</a></sub>
+  <sub>© 2026 AegisSentinel · <a href="https://aegissentinel.online">aegissentinel.online</a></sub>
 </p>
