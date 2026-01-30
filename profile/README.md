@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://aegissentinel.online">Website</a> •
   <a href="https://docs.aegissentinel.online">Documentation</a> •
-  <a href="https://twitter.com/AegisSentinel">Twitter</a> •
+  <a href="https://x.com/AegisSentinalAi">X</a> •
   <a href="https://discord.gg/aegissentinel">Discord</a>
 </p>
 
