@@ -17,7 +17,7 @@ Automatically configures your Aegis Sentinel Discord server with channels, roles
 ### Categories & Channels
 - **📌 INFO**: #welcome, #rules, #announcements, #links (read-only)
 - **💬 COMMUNITY**: #general, #introductions, #memes, #off-topic
-- **💰 TOKEN**: #presale, #sentinel-chat, #token-faq
+- **💰 TOKEN**: #presale, #aegis-chat, #token-faq
 - **🛠️ SUPPORT**: #help, #bug-reports, #feature-requests
 - **👨‍💻 DEVELOPERS**: #dev-chat, #api-discussion, #github-feed
 - **🔒 MODERATION**: #mod-chat, #mod-logs, #audit-logs (hidden)

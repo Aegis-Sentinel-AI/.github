@@ -87,7 +87,7 @@ Please follow these rules to keep our community safe and welcoming.
 
 **4️⃣ KEEP IT ORGANIZED**
 • Use the correct channel for your topic
-• Price discussion → #sentinel-chat
+• Price discussion → #aegis-chat
 • Support questions → #help
 • Bug reports → #bug-reports
 

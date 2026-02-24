@@ -184,7 +184,7 @@ Action: Block + Alert in #mod-logs + Timeout 1hr
 | Channel | Slowmode |
 |---------|----------|
 | #general | 5 seconds |
-| #sentinel-chat | 10 seconds |
+| #aegis-chat | 10 seconds |
 | #help | 15 seconds |
 | #introductions | 30 seconds |
 | #memes | 30 seconds |
