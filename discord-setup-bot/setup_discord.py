@@ -40,51 +40,51 @@ CATEGORIES = [
     {
         "name": "📌 INFO",
         "channels": [
-            {"name": "welcome", "type": "text", "readonly": True},
-            {"name": "rules", "type": "text", "readonly": True},
-            {"name": "announcements", "type": "text", "readonly": True},
-            {"name": "links", "type": "text", "readonly": True},
+            {"name": "🛡️-welcome", "type": "text", "readonly": True},
+            {"name": "📜-rules", "type": "text", "readonly": True},
+            {"name": "📢-announcements", "type": "text", "readonly": True},
+            {"name": "🔗-links", "type": "text", "readonly": True},
         ]
     },
     {
         "name": "💬 COMMUNITY",
         "channels": [
-            {"name": "general", "type": "text", "slowmode": 5},
-            {"name": "introductions", "type": "text", "slowmode": 30},
-            {"name": "memes", "type": "text", "slowmode": 30},
-            {"name": "off-topic", "type": "text", "slowmode": 10},
+            {"name": "💬-general", "type": "text", "slowmode": 5},
+            {"name": "👋-introductions", "type": "text", "slowmode": 30},
+            {"name": "😂-memes", "type": "text", "slowmode": 30},
+            {"name": "🎲-off-topic", "type": "text", "slowmode": 10},
         ]
     },
     {
         "name": "💰 TOKEN",
         "channels": [
-            {"name": "presale", "type": "text", "readonly": True},
-            {"name": "aegis-chat", "type": "text", "slowmode": 10},
-            {"name": "token-faq", "type": "text", "slowmode": 15},
+            {"name": "🎫-presale", "type": "text", "readonly": True},
+            {"name": "💬-aegis-chat", "type": "text", "slowmode": 10},
+            {"name": "❓-token-faq", "type": "text", "slowmode": 15},
         ]
     },
     {
         "name": "🛠️ SUPPORT",
         "channels": [
-            {"name": "help", "type": "text", "slowmode": 15},
-            {"name": "bug-reports", "type": "text", "slowmode": 60},
-            {"name": "feature-requests", "type": "text", "slowmode": 60},
+            {"name": "❓-help", "type": "text", "slowmode": 15},
+            {"name": "🐛-bug-reports", "type": "text", "slowmode": 60},
+            {"name": "💡-feature-requests", "type": "text", "slowmode": 60},
         ]
     },
     {
         "name": "👨‍💻 DEVELOPERS",
         "channels": [
-            {"name": "dev-chat", "type": "text", "dev_only": True},
-            {"name": "api-discussion", "type": "text", "dev_only": True},
-            {"name": "github-feed", "type": "text", "readonly": True},
+            {"name": "💻-dev-chat", "type": "text", "dev_only": True},
+            {"name": "📡-api-discussion", "type": "text", "dev_only": True},
+            {"name": "📊-github-feed", "type": "text", "readonly": True},
         ]
     },
     {
         "name": "🔒 MODERATION",
         "channels": [
-            {"name": "mod-chat", "type": "text", "mod_only": True},
-            {"name": "mod-logs", "type": "text", "mod_only": True},
-            {"name": "audit-logs", "type": "text", "admin_only": True},
+            {"name": "🔒-mod-chat", "type": "text", "mod_only": True},
+            {"name": "📋-mod-logs", "type": "text", "mod_only": True},
+            {"name": "📑-audit-logs", "type": "text", "admin_only": True},
         ]
     },
 ]
@@ -113,10 +113,10 @@ We're building the trust layer for Web3 — autonomous AI agents that detect thr
 📋 **QUICK START**
 
 1️⃣ Verify in #✅-verify to unlock channels
-2️⃣ Read the rules in #rules
-3️⃣ Introduce yourself in #introductions
-4️⃣ Join the conversation in #general
-5️⃣ Got questions? Head to #help
+2️⃣ Read the rules in #📜-rules
+3️⃣ Introduce yourself in #👋-introductions
+4️⃣ Join the conversation in #💬-general
+5️⃣ Got questions? Head to #❓-help
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -164,9 +164,9 @@ Please follow these rules to keep our community safe and welcoming.
 
 **4️⃣ KEEP IT ORGANIZED**
 • Use the correct channel for your topic
-• Price discussion → #aegis-chat
-• Support questions → #help
-• Bug reports → #bug-reports
+• Price discussion → #💬-aegis-chat
+• Support questions → #❓-help
+• Bug reports → #🐛-bug-reports
 
 **5️⃣ ENGLISH IN MAIN CHANNELS**
 • Main channels are English only
@@ -291,10 +291,10 @@ PRESALE_MESSAGE = """═══════════════════�
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📢 Turn on notifications for #announcements
+📢 Turn on notifications for #📢-announcements
 We'll announce the exact date there first!
 
-Questions? Ask in #token-faq"""
+Questions? Ask in #❓-token-faq"""
 
 TOKEN_FAQ_MESSAGE = """═══════════════════════════════════════════════════
 ❓ TOKEN FAQ
@@ -523,13 +523,13 @@ class SetupBot(discord.Client):
         print("\n📝 Sending welcome messages...")
         
         messages_to_send = [
-            ("welcome", WELCOME_MESSAGE),
-            ("rules", RULES_MESSAGE),
-            ("announcements", ANNOUNCEMENT_MESSAGE),
-            ("links", LINKS_MESSAGE),
-            ("presale", PRESALE_MESSAGE),
-            ("token-faq", TOKEN_FAQ_MESSAGE),
-            ("introductions", INTROS_MESSAGE),
+            ("🛡️-welcome", WELCOME_MESSAGE),
+            ("📜-rules", RULES_MESSAGE),
+            ("📢-announcements", ANNOUNCEMENT_MESSAGE),
+            ("🔗-links", LINKS_MESSAGE),
+            ("🎫-presale", PRESALE_MESSAGE),
+            ("❓-token-faq", TOKEN_FAQ_MESSAGE),
+            ("👋-introductions", INTROS_MESSAGE),
         ]
         
         for channel_name, message_content in messages_to_send:

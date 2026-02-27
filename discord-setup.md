@@ -4,7 +4,7 @@ Copy-paste ready messages for your Discord server.
 
 ---
 
-## 📌 #welcome Channel
+## 📌 #🛡️-welcome Channel
 
 ```
 ═══════════════════════════════════════════════════
@@ -31,8 +31,8 @@ We're building the trust layer for Web3 — autonomous AI agents that detect thr
 
 1️⃣ Verify in #✅-verify to unlock channels
 2️⃣ Read the rules below
-3️⃣ Join the conversation in #general
-4️⃣ Got questions? Head to #help
+3️⃣ Join the conversation in #💬-general
+4️⃣ Got questions? Head to #❓-help
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -58,7 +58,7 @@ Stay safe! 🛡️
 
 ---
 
-## 📜 #rules Channel
+## 📜 #📜-rules Channel
 
 ```
 ═══════════════════════════════════════════════════
@@ -86,9 +86,9 @@ Please follow these rules to keep our community safe and welcoming.
 
 **4️⃣ KEEP IT ORGANIZED**
 • Use the correct channel for your topic
-• Price discussion → #sentinel-chat
-• Support questions → #help
-• Bug reports → #bug-reports
+• Price discussion → #💬-aegis-chat
+• Support questions → #❓-help
+• Bug reports → #🐛-bug-reports
 
 **5️⃣ ENGLISH IN MAIN CHANNELS**
 • Main channels are English only
@@ -121,7 +121,7 @@ By participating, you agree to follow these rules. 🤝
 
 ---
 
-## 📢 #announcements - First Post
+## 📢 #📢-announcements - First Post
 
 ```
 ═══════════════════════════════════════════════════
@@ -158,7 +158,7 @@ Turn on notifications 🔔 to stay updated!
 
 ---
 
-## 🔗 #links Channel
+## 🔗 #🔗-links Channel
 
 ```
 ═══════════════════════════════════════════════════
@@ -195,7 +195,7 @@ Report fake links to @Moderator
 
 ---
 
-## 🎫 #presale Channel
+## 🎫 #🎫-presale Channel
 
 ```
 ═══════════════════════════════════════════════════
@@ -227,15 +227,15 @@ Report fake links to @Moderator
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📢 Turn on notifications for #announcements
+📢 Turn on notifications for #📢-announcements
 We'll announce the exact date there first!
 
-Questions? Ask in #token-faq
+Questions? Ask in #❓-token-faq
 ```
 
 ---
 
-## ❓ #token-faq Channel
+## ❓ #❓-token-faq Channel
 
 ```
 ═══════════════════════════════════════════════════
@@ -280,7 +280,7 @@ More questions? Ask below! ⬇️
 
 ---
 
-## 👋 #introductions Channel - Pinned Message
+## 👋 #👋-introductions Channel - Pinned Message
 
 ```
 ═══════════════════════════════════════════════════
@@ -311,15 +311,15 @@ Welcome to the community! 🛡️
 
 ### Permissions
 - [x] @everyone can't mention @everyone
-- [x] Only @Team can post in #announcements
+- [x] Only @Team can post in #📢-announcements
 - [x] Enable slowmode (30-60s) on busy channels
 
 ### Channels to Lock (Admin Only)
-- #welcome
-- #rules
-- #announcements
-- #links
-- #presale (updates only, questions in #token-faq)
+- #🛡️-welcome
+- #📜-rules
+- #📢-announcements
+- #🔗-links
+- #🎫-presale (updates only, questions in #❓-token-faq)
 
 ### Bots to Add (Optional)
 - **MEE6** or **Carl-bot** — Moderation, auto-roles
@@ -334,7 +334,7 @@ Welcome to the community! 🛡️
 |------|-----------|-------------|
 | @Team | #00FF88 | Admin |
 | @Moderator | #5865F2 | Manage messages, kick, mute |
-| @Developer | #9B59B6 | Access to #dev-chat |
+| @Developer | #9B59B6 | Access to #💻-dev-chat |
 | @OG | #F1C40F | Early supporter badge |
 | @Presale | #E67E22 | Access post-sale |
 | @Verified | #95A5A6 | Basic access |
