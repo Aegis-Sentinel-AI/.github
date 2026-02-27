@@ -244,16 +244,15 @@ forge test
 | Staking | Validators stake to participate in consensus |
 | Governance | DAO voting on protocol upgrades |
 
-### Presale Information
+### Sale Information
 
-| Round | Price | Discount |
-|-------|-------|----------|
-| Early Bird | $0.015 | 62.5% off |
-| Public Presale | $0.022 | 45% off |
-| Final Round | $0.032 | 20% off |
-| Listing (Uniswap) | $0.04 | — |
+| Phase | Price | Discount | Period |
+|-------|-------|----------|--------|
+| Early Bird | $0.015 | 62.5% off | Feb 26 – Jul 1, 2026 |
+| Pre-Sale | $0.022 | 45% off | Jul 1 – Dec 31, 2026 |
+| Listing (Uniswap/Camelot) | $0.04 | — | January 1, 2027 |
 
-**Timeline:** Early Bird LIVE NOW
+**Timeline:** Early Bird LIVE NOW — All tokens locked until listing (Jan 1, 2027)
 
 ---
 
