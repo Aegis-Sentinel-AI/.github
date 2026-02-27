@@ -219,7 +219,7 @@ Contributors will be recognized in:
 ## Questions?
 
 - Open a [Discussion](https://github.com/Aegis-Sentinel-AI/aegis-docs/discussions)
-- Join our [Discord](https://discord.gg/aG5XwyV7sV)
+- Join our [Discord](https://discord.gg/Z5NcWtqB)
 - Join our [Telegram](https://t.me/AegisSentinelAi)
 - Email: [contributors@aegissentinel.online](mailto:contributors@aegissentinel.online)
 

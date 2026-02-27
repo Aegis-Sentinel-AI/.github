@@ -121,7 +121,7 @@ We will not pursue legal action against researchers who:
 
 - Security Team: [security@aegissentinel.online](mailto:security@aegissentinel.online)
 - General Inquiries: [contact@aegissentinel.online](mailto:contact@aegissentinel.online)
-- Discord: [Join our community](https://discord.gg/aG5XwyV7sV)
+- Discord: [Join our community](https://discord.gg/Z5NcWtqB)
 
 ---
 
