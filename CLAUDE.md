@@ -11,7 +11,7 @@
 - **Owner**: @Srodland (Sean Rødland)
 - **Project account**: @AegisSentinelAi
 - **Domain**: aegissentinel.online
-- **Presale**: Q2 2026 (target June 1, 2026)
+- **Presale**: Early Bird LIVE (Feb 26, 2026 – Jul 1, 2026)
 - **Token**: $AEGIS (1B fixed supply)
 
 ---

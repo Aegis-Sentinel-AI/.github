@@ -23,15 +23,14 @@ We're building the trust layer for Web3 — autonomous AI agents that detect thr
 🖥️ Portal: https://portal.aegissentinel.online
 📚 Docs: https://docs.aegissentinel.online
 🐦 Twitter/X: https://x.com/AegisSentinelAi
-📱 Telegram: https://t.me/AegisSentinelAi
-💻 GitHub: https://github.com/Aegis-Sentinel-AI
+� GitHub: https://github.com/Aegis-Sentinel-AI
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📋 **QUICK START**
 
-1️⃣ Read the rules below
-2️⃣ Introduce yourself in #introductions
+1️⃣ Verify in #✅-verify to unlock channels
+2️⃣ Read the rules below
 3️⃣ Join the conversation in #general
 4️⃣ Got questions? Head to #help
 
@@ -39,11 +38,11 @@ We're building the trust layer for Web3 — autonomous AI agents that detect thr
 
 💰 **$AEGIS TOKEN**
 
-• Presale: Q2 2026 on PinkSale
-• Early Bird Price: $0.015 (62.5% off listing)
-• Network: Arbitrum (L2)
+• Early Bird Presale: LIVE NOW
+• Price: $0.015 (62.5% off listing)
+• Network: Arbitrum One
 
-Join the waitlist: https://aegissentinel.online/#waitlist
+🚀 See #🚀-early-bird-presale after verifying
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -87,7 +86,7 @@ Please follow these rules to keep our community safe and welcoming.
 
 **4️⃣ KEEP IT ORGANIZED**
 • Use the correct channel for your topic
-• Price discussion → #aegis-chat
+• Price discussion → #sentinel-chat
 • Support questions → #help
 • Bug reports → #bug-reports
 
@@ -141,8 +140,8 @@ We're building AI-powered cybersecurity for Web3:
 
 **What's Next?**
 
-📍 Q2 2026: $AEGIS presale on PinkSale
-📍 Q2 2026: Uniswap listing
+� NOW: $AEGIS Early Bird Presale LIVE ($0.015)
+📍 Q3 2026: Public presale & Uniswap listing
 📍 Q3 2026: Enterprise partnerships
 📍 Q4 2026: CEX listings
 
@@ -150,7 +149,7 @@ We're building AI-powered cybersecurity for Web3:
 
 🌐 Try the Portal: https://portal.aegissentinel.online
 📚 Read the Docs: https://docs.aegissentinel.online
-📝 Join Waitlist: https://aegissentinel.online/#waitlist
+🚀 Early Bird: https://aegissentinel.online/early-bird.html
 
 Turn on notifications 🔔 to stay updated!
 
@@ -173,16 +172,15 @@ Turn on notifications 🔔 to stay updated!
 
 **Social**
 🐦 Twitter/X: https://x.com/AegisSentinelAi
-📱 Telegram: https://t.me/AegisSentinelAi
 💬 Discord: You're here!
 
 **Development**
 💻 GitHub: https://github.com/Aegis-Sentinel-AI
 📖 API Docs: https://docs.aegissentinel.online/api-reference
 
-**Token (Coming Q2 2026)**
-🎫 Presale: PinkSale (link TBA)
-💱 DEX: Uniswap on Arbitrum (after launch)
+**Token (✅ Early Bird LIVE)**
+🚀 Early Bird: https://aegissentinel.online/early-bird.html
+💱 DEX: Uniswap on Arbitrum (after listing)
 
 **Contact**
 📧 General: contact@aegissentinel.online
@@ -205,33 +203,27 @@ Report fake links to @Moderator
 ═══════════════════════════════════════════════════
 
 **Token Details**
-• Name: SENTINEL
+• Name: Aegis Token
 • Symbol: $AEGIS
-• Network: Arbitrum (L2)
+• Network: Arbitrum One
 • Total Supply: 1,000,000,000 (1B)
 
 **Presale Details**
-• Platform: PinkSale
-• Early Bird Price: $0.015 per token (62.5% off)
-• Presale Price: $0.022 per token (45% off)
-• Final Round Price: $0.032 per token (20% off)
+• Early Bird Price: $0.015 per token (62.5% off) — LIVE NOW
+• Public Presale: $0.022 per token (45% off) — July 2026
+• Final Round: $0.032 per token (20% off) — TBD
 • Listing Price: $0.04 (Uniswap on Arbitrum)
 • Total Presale Tokens: 150M (15% of supply)
 • Total Raise: ~$3.35M
 
-**Timing**
-• Presale: Q2 2026
-• Exact date: TBA (join waitlist for priority)
-
 **Vesting**
-• 10% unlocked at TGE
-• 90% vested over 9 months (linear)
+• 100% cliff — unlocks January 1, 2027
 
-**How to Participate**
-1. Join waitlist: https://aegissentinel.online/#waitlist
-2. Get whitelisted (early supporters = priority)
-3. Connect wallet on PinkSale when live
-4. Buy with ETH on Arbitrum
+**How to Participate (Early Bird)**
+1. Add Arbitrum One to your wallet
+2. Fund wallet with ETH on Arbitrum
+3. Send ETH to: 0x8F60e81Ca34510193D568A9a4CB4CbeF95e3F6a1
+4. Tokens allocated automatically, vest Jan 1 2027
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -251,19 +243,19 @@ Questions? Ask in #token-faq
 ═══════════════════════════════════════════════════
 
 **Q: When is the presale?**
-A: Q2 2026. Exact date will be announced in #announcements.
+A: Early Bird is LIVE NOW at $0.015/token. Public presale at $0.022 starts July 2026.
 
 **Q: What's the presale price?**
-A: Three rounds — Early Bird $0.015 (62.5% off), Presale $0.022 (45% off), Final Round $0.032 (20% off). Listing price: $0.04.
+A: Three rounds — Early Bird $0.015 (62.5% off, LIVE), Public $0.022 (45% off), Final Round $0.032 (20% off). Listing price: $0.04.
 
 **Q: What chain is $AEGIS on?**
-A: Arbitrum (Ethereum L2) — low fees, fast transactions.
+A: Arbitrum One (Ethereum L2) — low fees, fast transactions.
 
 **Q: How do I participate in presale?**
-A: Join the waitlist at aegissentinel.online, get whitelisted, then buy on PinkSale when it launches.
+A: Send ETH on Arbitrum to the presale contract: 0x8F60e81Ca34510193D568A9a4CB4CbeF95e3F6a1. See #🚀-early-bird-presale for the full guide.
 
 **Q: Is there a vesting period?**
-A: Yes. 10% unlocked at TGE, 90% vested over 9 months.
+A: Yes. 100% cliff vesting — tokens unlock January 1, 2027.
 
 **Q: What can I do with $AEGIS?**
 A: 

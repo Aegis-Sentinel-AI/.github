@@ -221,7 +221,7 @@ forge test
 | Phase | Timeline | Status | Milestones |
 |-------|----------|--------|------------|
 | Foundation & Alpha | Q1–Q2 | 🟡 In Progress | AI engine (35+ threats), smart contracts (Sepolia), dashboard v1.0 |
-| Token Launch & Beta | Q3–Q4 | ⚪ Planned | TGE (PinkSale), public beta, DEX/CEX listings |
+| Token Launch & Beta | Q3–Q4 | ⚪ Planned | TGE, public beta, DEX/CEX listings |
 
 ### 2027
 
@@ -249,11 +249,11 @@ forge test
 | Round | Price | Discount |
 |-------|-------|----------|
 | Early Bird | $0.015 | 62.5% off |
-| Presale (PinkSale) | $0.022 | 45% off |
+| Public Presale | $0.022 | 45% off |
 | Final Round | $0.032 | 20% off |
 | Listing (Uniswap) | $0.04 | — |
 
-**Timeline:** Q2 2026
+**Timeline:** Early Bird LIVE NOW
 
 ---
 
@@ -296,8 +296,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICE
 | 📖 Documentation | [docs.aegissentinel.online](https://aegis-docs-site-two.vercel.app) |
 | 🐦 X (Twitter) | [@AegisSentinelAi](https://x.com/AegisSentinelAi) |
 | 💬 Discord | [discord.gg/aG5XwyV7sV](https://discord.gg/aG5XwyV7sV) |
-| 📱 Telegram | [t.me/AegisSentinelAi](https://t.me/AegisSentinelAi) |
-| 🐙 GitHub | [Aegis-Sentinel-AI](https://github.com/Aegis-Sentinel-AI) |
+|  GitHub | [Aegis-Sentinel-AI](https://github.com/Aegis-Sentinel-AI) |
 | 📧 Contact | [contact@aegissentinel.online](mailto:contact@aegissentinel.online) |
 
 ---
