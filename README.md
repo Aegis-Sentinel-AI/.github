@@ -294,7 +294,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICE
 | 📊 Dashboard | [aegissentinel.online/dashboard](https://aegissentinel.online/dashboard) |
 | 📖 Documentation | [docs.aegissentinel.online](https://aegis-docs-site-two.vercel.app) |
 | 🐦 X (Twitter) | [@AegisSentinelAi](https://x.com/AegisSentinelAi) |
-| 💬 Discord | [discord.gg/Z5NcWtqB](https://discord.gg/Z5NcWtqB) |
+| 💬 Discord | [discord.gg/aG5XwyV7sV](https://discord.gg/aG5XwyV7sV) |
 |  GitHub | [Aegis-Sentinel-AI](https://github.com/Aegis-Sentinel-AI) |
 | 📧 Contact | [contact@aegissentinel.online](mailto:contact@aegissentinel.online) |
 
